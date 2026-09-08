@@ -24,11 +24,13 @@ focused on Backend and Web Development.
 
 ## Projects
 
+## Projects
+
 | Project | Tech Stack | What I Built | Status |
 |---|---|---|---|
-| Booking System | Java, Spring Boot, MySQL | REST API and booking management | In progress |
-| Realtime Chat | React, Node.js, MongoDB | Realtime messaging with WebSocket | Completed |
-| AI Application | Python, AI APIs | AI-powered application workflow | In progress |
+| Fresh Food E-Commerce Platform | Java, Spring Boot, Spring Security, JPA, Thymeleaf, MariaDB | Authentication, product management, shopping cart, checkout, order tracking, and VNPay/COD payment integration | Completed |
+| Real-time Messaging Platform | React Native, Node.js, Express.js, MongoDB, Socket.IO, Redis, JWT | RESTful APIs, real-time messaging, group chat, media sharing, Redis Pub/Sub, and AI-assisted features | Completed |
+| Graduation Thesis Project | Java, Spring Boot, React, Python, AI | Developing an AI-powered platform for web vulnerability detection and analysis | In Progress |
 
 ## Current Focus
 
